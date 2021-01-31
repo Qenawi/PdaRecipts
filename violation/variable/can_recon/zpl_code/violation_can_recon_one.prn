@@ -71,7 +71,7 @@
 ^BY3,3,39^FT432,71^BCI,,Y,N,,A
 ^FDbVar_recipt_number^FS
 ^FT388,348^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_date_time^FS^CI27
-^FT480,308^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_name^FS^CI27
+^FT507,307^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_name^FS^CI27
 ^FT368,266^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_department^FS^CI27
 ^FT423,224^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_location^FS^CI27
 ^FT391,176^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_department^FS^CI27
