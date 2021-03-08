@@ -31,18 +31,18 @@
 ^FT146,390^A@I,25,25,TT0003M_^FH\^CI28^FDبسداد مبلغ^FS^CI27
 ^FT166,390^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
 ^FT157,986^A@I,25,25,TT0003M_^FH\^CI28^FDرقم المخالفة^FS^CI27
-^FT192,992^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
+^FT173,989^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
 ^FO30,1023^GFA,37,256,64,:Z64:eJz7/x8GPjBQBvj/YwGD3VAGAPZyPsI=:6D49
 ^FO27,963^GFA,37,256,64,:Z64:eJz7/x8GPjBQBvj/YwGD3VAGAPZyPsI=:6D49
 ^FPH,2^FT173,924^A@I,25,25,TT0003M_^FH\^CI28^FDاسم المخالف ^FS^CI27
-^FT230,924^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
+^FT193,919^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
 ^FT208,872^A@I,25,25,TT0003M_^FH\^CI28^FDرقم المركبة الاولي^FS^CI27
 ^FT230,872^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
-^FT383,872^A@I,25,25,TT0003M_^FH\^CI28^FD|^FS^CI27
+^FT365,872^A@I,25,25,TT0003M_^FH\^CI28^FD|^FS^CI27
 ^FO153,842^GB230,0,1^FS
 ^FT215,801^A@I,25,25,TT0003M_^FH\^CI28^FDرقم المركبة الثانية^FS^CI27
 ^FT231,801^A@I,25,25,TT0003M_^FH\^CI28^FD:^FS^CI27
-^FT384,801^A@I,25,25,TT0003M_^FH\^CI28^FD|^FS^CI27
+^FT365,801^A@I,25,25,TT0003M_^FH\^CI28^FD|^FS^CI27
 ^FO30,775^GFA,37,256,64,:Z64:eJz7/x8GPjBQBvj/YwGD3VAGAPZyPsI=:6D49
 ^FT347,1213^A@I,28,27,TT0003M_^FH\^CI28^FDوزاره الداخلية^FS^CI27
 ^FT423,1176^A@I,28,27,TT0003M_^FH\^CI28^FDقطاع الشرطة المتخصصة^FS^CI27
@@ -63,26 +63,26 @@
 ^FO151,138^GB230,0,1^FS
 ^FT391,1041^A@I,28,27,TT0003M_^FH\^CI28^FDbVar_violation_title^FS^CI27
 ^FT117,686^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_violation_tag^FS^CI27
-^FT529,682^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_violation^FS^CI27
+^FT434,686^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_violation^FS^CI27
 ^FT117,644^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_violation_tag^FS^CI27
-^FT529,641^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_violation^FS^CI27
+^FT434,644^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_violation^FS^CI27
 ^FT117,592^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_third_violation_tag^FS^CI27
-^FT529,595^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_third_violation^FS^CI27
+^FT434,595^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_third_violation^FS^CI27
 ^FT117,543^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_fourth_violation_tag^FS^CI27
-^FT529,549^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_fourth_violation^FS^CI27
+^FT434,548^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_fourth_violation^FS^CI27
 ^FT269,390^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_recon_amount^FS^CI27
-^FPH,2^FT432,996^AQI,28,9^FH\^FDbVar_violation_number^FS
-^FT496,924^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_violator_name^FS^CI27
-^FT359,872^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce^FS^CI27
-^FT523,872^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce_gov_type^FS^CI27
-^FT360,801^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_vechilce^FS^CI27
-^FT523,801^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_vechilce_gov_type^FS^CI27
+^FPH,2^FT337,993^AQI,28,9^FH\^FDbVar_violation_number^FS
+^FT439,919^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_violator_name^FS^CI27
+^FT344,872^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce^FS^CI27
+^FT499,872^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce_gov_type^FS^CI27
+^FT347,801^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_vechilce^FS^CI27
+^FT500,801^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_second_vechilce_gov_type^FS^CI27
 ^BY3,3,39^FT434,73^BCI,,Y,N,,A
 ^FDbVar_recipt_number^FS
-^FT441,344^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_date_time^FS^CI27
-^FT464,227^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_office^FS^CI27
-^FT464,181^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_location^FS^CI27
-^FT464,265^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_department^FS^CI27
-^FT516,309^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_name^FS^CI27
+^FT370,341^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_date_time^FS^CI27
+^FT266,227^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_office^FS^CI27
+^FT426,185^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_location^FS^CI27
+^FT401,265^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_department^FS^CI27
+^FT431,306^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_name^FS^CI27
 ^PQ1,,,Y
 ^XZ
