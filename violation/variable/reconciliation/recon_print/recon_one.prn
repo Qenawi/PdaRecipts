@@ -83,7 +83,7 @@
 ^FT424,314^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_recon_location^FS^CI27
 ^FT404,394^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_violation_writer_department^FS^CI27
 ^FT430,437^A@I,25,25,TT0003M_^FH\^CI28^FDbVar_recon_writer_name^FS^CI27
-^FPH,2^FT332,1327^A@I,22,22,TT0003M_^FB84,1,12,R^FH\^CI28^FDbVar_recon_number^FS^CI27
+^FPH,2^FT513,1323^A@I,25,25,TT0003M_^FB272,1,13,R^FH\^CI28^FDbVar_recon_number^FS^CI27
 ^FT419,961^A@I,25,22,TT0003M_^FH\^CI28^FDbVar_violation_violator_name^FS^CI27
 ^FT322,911^A@I,25,22,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce^FS^CI27
 ^FT473,911^A@I,25,22,TT0003M_^FH\^CI28^FDbVar_violation_first_vechilce_gov_type^FS^CI27
